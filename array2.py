@@ -1,4 +1,4 @@
-#Python program to reverse an array
+#Python Program To Reverse An Array
 def reverseList(A):
     print( A[::-1])
 	
