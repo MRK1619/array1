@@ -1,4 +1,4 @@
-#find the minimam and maximum array
+#Find The Minimam And Maximum Array
 def getMinMax(arr):
 	
 	n = len(arr)
